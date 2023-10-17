@@ -10,7 +10,7 @@ public class App {
             int salaireSemaine = 400;
             int prime = 250;
             int quota = 10;
-
+                // commentaire 
             System.out.println("Entrez le nombre de vente de la semanine");
             int nbVente = clavier.nextInt();
 
